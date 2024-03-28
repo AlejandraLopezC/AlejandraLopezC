@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlejandraLopezC
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Biochemestry, Biotechnology and Data science
+- 🌱 I’m currently learning Biochimestry, Biotechnology and Data science
 - 💞️ I’m looking to collaborate on Bioinformatics projects
 - 📫 How to reach me LinkedIn (www.linkedin.com/in/alejandra-lópez-cabrera-63aa62244)
 
